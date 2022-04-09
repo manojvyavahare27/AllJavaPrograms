@@ -3,6 +3,7 @@ package JavaPrograms;
 public class PalindromNumber {
 
 	public static void main(String[] args) {
+		//Palindrom Number Check
 		int num=12121;
 		int rev=0;
 		int actno=num;
