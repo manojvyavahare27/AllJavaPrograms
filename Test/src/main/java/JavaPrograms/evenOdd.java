@@ -3,17 +3,14 @@ package JavaPrograms;
 import java.util.Scanner;
 
 public class evenOdd {
-      //Even or Odd
+	// Even or Odd
 	public static void main(String[] args) {
-		Scanner sc=new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter number please:");
-		int num=sc.nextInt();
-		if(num%2==0)
-		{
+		int num = sc.nextInt();
+		if (num % 2 == 0) {
 			System.out.println("Number is Even");
-		}
-		else
-		{
+		} else {
 			System.out.println("Number is Odd");
 		}
 
