@@ -6,7 +6,7 @@ import javax.swing.plaf.synth.SynthSpinnerUI;
 
 public class Calculator {
 
-	
+	// Added Calc
 	public static void main(String[] args) {
 		double result=0;
 		Scanner sc=new Scanner(System.in);

@@ -3,7 +3,7 @@ package JavaPrograms;
 import java.util.Scanner;
 
 public class evenOdd {
-
+      //Even or Odd
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter number please:");
