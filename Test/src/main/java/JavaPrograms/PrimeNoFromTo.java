@@ -3,6 +3,7 @@ package JavaPrograms;
 public class PrimeNoFromTo {
 
 	public static void main(String[] args) {
+		//Prime Number from to To
 		int low = 20;
 		int high = 50;
 
