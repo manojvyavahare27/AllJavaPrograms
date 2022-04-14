@@ -14,6 +14,9 @@ public class VowelsorConsonent {
 		}*/
 		
 		
+		
+		//Vowels or not
+		
 		switch (ch) {
 		case 'a':
 		case 'e':
