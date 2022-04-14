@@ -2,6 +2,8 @@ package JavaPrograms;
 
 public class fibonacciSeries {
 
+	
+	//fibonacci Series program
 	public static void main(String[] args) {
 		int t1=0;
 		int t2=1;
